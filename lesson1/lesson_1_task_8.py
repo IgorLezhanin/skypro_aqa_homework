@@ -1,10 +1,15 @@
 
-def number():
-    num = num + input()
+def number(num):
+    print (num)
     
-count = 0
-while count < 12:
-    number()
-    count += 1   
-
-print (num)
+number(8)
+number(8)
+number(0)
+number(0)
+number(5)
+number(5)
+number(5)
+number(3)
+number(5)
+number(3)
+number(5)
